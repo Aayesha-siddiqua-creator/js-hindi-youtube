@@ -11,4 +11,4 @@ accountCity = "Bengaluru"
 
 console. log(accountId);
 
-console, table(laccountId, accountEmail, accountPassword, accountCity]
+console, table([laccountId, accountEmail, accountPassword, accountCity])
